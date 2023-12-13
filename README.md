@@ -1,5 +1,5 @@
 # DSA-AVLTree
-AVL tree for data structures and algorithms class project. I designed a custom AVL tree to organize University of Florida student accounts based on student IDs. Specifically, I implemented methods for insertion, deletion, search, and traversals for an AVL tree data structure. (Please see below for a detailed overview of each method). Additionally, I implemented a main method to call specific methods based on validated user inputs. Subsequently, I tested my implementation using the catch2 framework. 
+AVL tree for data structures and algorithms (COP3530) project. I designed a custom AVL tree to organize University of Florida student accounts based on student IDs. Specifically, I implemented methods for insertion, deletion, search, and traversals for an AVL tree data structure. (Please see below for a detailed overview of each method). Additionally, I implemented a main method to call specific methods based on validated user inputs. Subsequently, I tested my implementation using the catch2 framework. 
 
 Detailed Overview of Methods:
 
